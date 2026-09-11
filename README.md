@@ -1,4 +1,5 @@
 # HPK Picker Upgrade 2026
+<img width="448" height="821" alt="image" src="https://github.com/user-attachments/assets/f26f7baf-c1f1-4485-8779-8b2e64e6e08d" />
 
 This is a new, separate implementation package. The legacy files under
 `HPKPicker_Max` and `HPKPicker_Maya` are not modified.
