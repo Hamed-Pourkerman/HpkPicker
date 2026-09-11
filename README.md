@@ -21,3 +21,10 @@ place it on a shelf.
 Picker JSON files remain compatible with the legacy format. Image paths are
 resolved relative to the saved layout when possible; the bundled default image
 is used for new tabs.
+
+Here is the demo for this tool 
+https://www.youtube.com/watch?v=8KY8_1TZI2k
+
+Please give it a try and let me know if you find any issues or if you have any feature requests
+
+Cheers!
