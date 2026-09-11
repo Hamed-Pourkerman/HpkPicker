@@ -1,0 +1,4729 @@
+[
+    {
+        "TabName": "KarmaMisc",
+        "TabPhoto": "D:/MayaProjects/AnimationProduction_Tools/Maya/HPKPicker/Images/StinaPickerUI_KarmaBG.png",
+        "PrefixList": [
+            "",
+            "Karma"
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairC1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            419.8500423594062,
+            150.12446567164167
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            419.8500423594062,
+            150.12446567164167,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairD1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            528.5252787486629,
+            150.1244656716417
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            528.5252787486629,
+            150.1244656716417,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            38.06223283582088
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            93.93776716417915
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            150.0
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            205.8755343283583
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakD1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            71.95092537313434,
+            1148.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail6_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            317.8755343283583
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakD2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            67.95092537313434,
+            1204.8133014925374
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            261.43776716417915
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakD3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.95092537313434,
+            1260.3755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakD5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            40.95092537313434,
+            1372.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakD4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            50.95092537313434,
+            1315.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytail7_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            60.31767154626874,
+            375.4328748704477
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "ponytailDynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            1.0,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_hairB2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            201.0490746268656,
+            261.43776716417915
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakC4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            149.0490746268656,
+            1315.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairB4_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            183.68232845373132,
+            375.4328748704477
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairB3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            191.0490746268656,
+            317.8755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairB1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            209.0490746268656,
+            205.8755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakC5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            139.0490746268656,
+            1372.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakC3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            159.0490746268656,
+            1260.3755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairBDynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            124.0,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_cloakC2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            165.83625131462986,
+            1204.8133014925374
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakC1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            169.83625131462986,
+            1148.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakB2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            263.4509253731344,
+            1204.8133014925374
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakB4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            246.23810206089865,
+            1315.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakA4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            339.33625131462986,
+            1315.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakB3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            256.23810206089865,
+            1260.3755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakA5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            329.33625131462986,
+            1372.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakA3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            350.33625131462986,
+            1260.3755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakB1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            267.4509253731344,
+            1148.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakA2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            357.33625131462986,
+            1204.8133014925374
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakB5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            236.23810206089865,
+            1372.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cloakA1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            362.33625131462986,
+            1148.9377671641791
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakB5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            567.0490746268656,
+            1372.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakD1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            731.3362513146299,
+            1148.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakC4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            653.2381020608987,
+            1315.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakC3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            642.2381020608987,
+            1260.3755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakA3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            451.9509253731344,
+            1260.3755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakB3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            545.0490746268656,
+            1260.3755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakD2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            733.3362513146299,
+            1204.8133014925374
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakC5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            664.2381020608987,
+            1372.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakD3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            740.3362513146299,
+            1260.3755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakB1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            535.8362513146299,
+            1148.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakC2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            635.4509253731344,
+            1204.8133014925374
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakA1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            440.9509253731344,
+            1148.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakA5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            473.9509253731344,
+            1372.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakB2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            537.8362513146299,
+            1204.8133014925374
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakC1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            633.4509253731344,
+            1148.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakA2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            443.9509253731344,
+            1204.8133014925374
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakA4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            463.9509253731344,
+            1315.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakD4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            751.3362513146299,
+            1315.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakD5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            762.3362513146299,
+            1372.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_cloakB4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            556.0490746268656,
+            1315.9377671641791
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_cloakA4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            843.3362513146299,
+            1315.9377671641791
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_cloakA5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            854.3362513146299,
+            1372.9377671641791
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_cloakA3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            832.3362513146299,
+            1260.3755343283583
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_cloakA2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            825.3362513146299,
+            1204.8133014925374
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_cloakA1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            823.3362513146299,
+            1148.9377671641791
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairA3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            308.33625131462986,
+            261.43776716417915
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairA5_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            290.9695051414956,
+            375.4328748704477
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairA1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            316.33625131462986,
+            150.0
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairA4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            298.33625131462986,
+            317.8755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairA2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            316.33625131462986,
+            205.8755343283583
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairADynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            229.28717668776426,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_hairDDynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            438.5743533755285,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_hairC5_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            395.60484823403294,
+            373.43052217270565
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairD2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            528.5252787486629,
+            205.8755343283583
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            528.5252787486629,
+            205.8755343283583,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairC3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            414.23810206089865,
+            261.43776716417915
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            414.23810206089865,
+            261.43776716417915,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairD5_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            501.8920249217972,
+            375.4328748704477
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairCDynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            333.28717668776426,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_hairC2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            422.23810206089865,
+            205.8755343283583
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            422.23810206089865,
+            205.8755343283583,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairC4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            404.23810206089865,
+            317.8755343283583
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairD4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            510.5252787486629,
+            317.8755343283583
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_hairD3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            521.5252787486629,
+            261.43776716417915
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            521.5252787486629,
+            261.43776716417915,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_hairA1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            829.3362513146299,
+            205.8755343283583
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairA1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            617.2381020608987,
+            150.0
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairB1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            723.0490746268656,
+            205.8755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairA5_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            645.6048482340329,
+            375.4328748704477
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairADynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            586.0,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "c_hairA2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            836.3362513146299,
+            261.43776716417915
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairA3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            624.2381020608987,
+            261.43776716417915
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairB3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            743.0490746268656,
+            317.8755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_hairA3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            849.3362513146299,
+            317.8755343283583
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "c_hairA4_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            857.9695051414956,
+            375.4328748704477
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairBDynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            691.2871766877643,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "c_hairADynamics_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            67.50398509373446,
+            445.6353344143301,
+            51.28319159402986,
+            31.41095485134332
+        ],
+        "pos": [
+            795.2871766877643,
+            1.0
+        ],
+        "color": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                67.50398509373446,
+                458.13561236537487
+            ],
+            [
+                90.26090136358522,
+                457.8150924179122
+            ],
+            [
+                103.08169926209263,
+                445.6353344143301
+            ],
+            [
+                118.78717668776432,
+                461.3408118400017
+            ],
+            [
+                103.08169926209263,
+                477.0462892656734
+            ],
+            [
+                90.26090136358522,
+                464.86653126209126
+            ],
+            [
+                67.82450504119714,
+                464.86653126209126
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "l_hairB2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            730.0490746268656,
+            261.43776716417915
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairB4_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            751.6823284537313,
+            375.4328748704477
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairA2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            617.2381020608987,
+            205.8755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_hairA4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            638.2381020608987,
+            317.8755343283583
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "nucleus1"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            107.0,
+            27.0
+        ],
+        "pos": [
+            651.2799999999997,
+            47.42567164179127
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 2.200000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "NucleusSolver",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "bowMain_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            49.0,
+            27.0
+        ],
+        "pos": [
+            68.43302171608144,
+            621.6692681027935
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 3.200000000000002,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-Bow-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "bowString_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            50.0,
+            27.0
+        ],
+        "pos": [
+            104.39011343283573,
+            561.6140179104481
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1.7000000000000006,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "String",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_rear_bootTip_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            62.0,
+            27.0
+        ],
+        "pos": [
+            333.85557276642385,
+            804.4045468513063
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1.9000000000000008,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-BootR-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "front_collarATweak_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            73.0,
+            27.0
+        ],
+        "pos": [
+            328.53443173785206,
+            1056.891008308832
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "CollarCtrl",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "bowSec_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            110.0,
+            22.5
+        ],
+        "pos": [
+            81.817303880597,
+            712.6865671641791
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            110.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowAMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            87.5
+        ],
+        "pos": [
+            291.34410048955215,
+            605.0555816119399
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            87.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowASec_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            15.0,
+            35.0
+        ],
+        "pos": [
+            323.3206175713433,
+            631.7641986292537
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            15.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "quiverTop_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            125.0
+        ],
+        "pos": [
+            807.7739462686566,
+            552.2300656716413
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            125.0
+        ]
+    },
+    {
+        "object_list": [
+            "quiverBot_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            52.5,
+            42.5
+        ],
+        "pos": [
+            813.4086675104477,
+            693.2285508776116
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            52.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowATip_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            288.44038042268784,
+            712.3534362125343,
+            46.79591232955221,
+            33.01355458865669
+        ],
+        "pos": [
+            0.0,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                288.44038042268784,
+                712.3534362125343
+            ],
+            [
+                335.23629275224005,
+                712.673956159997
+            ],
+            [
+                311.51781664000123,
+                745.366990801191
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowABase_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            294.20973947701617,
+            561.3885409576089,
+            33.33407453611943,
+            45.513832539701525
+        ],
+        "pos": [
+            0.0,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                294.20973947701617,
+                561.3885409576089
+            ],
+            [
+                310.87677674507586,
+                572.6067391188029
+            ],
+            [
+                327.5438140131356,
+                561.7090609050716
+            ],
+            [
+                327.5438140131356,
+                596.004695283579
+            ],
+            [
+                311.19729669253854,
+                606.9023734973105
+            ],
+            [
+                294.20973947701617,
+                595.6841753361164
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowBBase_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            294.20973947701617,
+            561.3885409576089,
+            33.33407453611943,
+            45.513832539701525
+        ],
+        "pos": [
+            96.54450262926002,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                294.20973947701617,
+                561.3885409576089
+            ],
+            [
+                310.87677674507586,
+                572.6067391188029
+            ],
+            [
+                327.5438140131356,
+                561.7090609050716
+            ],
+            [
+                327.5438140131356,
+                596.004695283579
+            ],
+            [
+                311.19729669253854,
+                606.9023734973105
+            ],
+            [
+                294.20973947701617,
+                595.6841753361164
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowBSec_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            15.0,
+            35.0
+        ],
+        "pos": [
+            420.7378483247837,
+            631.7641986292537
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            15.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "arrowBTip_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            288.44038042268784,
+            712.3534362125343,
+            46.79591232955221,
+            33.01355458865669
+        ],
+        "pos": [
+            95.05846589612702,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                288.44038042268784,
+                712.3534362125343
+            ],
+            [
+                335.23629275224005,
+                712.673956159997
+            ],
+            [
+                311.51781664000123,
+                745.366990801191
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowBMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            87.5
+        ],
+        "pos": [
+            385.9208074125463,
+            605.0555816119399
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            87.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowCTip_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            288.44038042268784,
+            712.3534362125343,
+            46.79591232955221,
+            33.01355458865669
+        ],
+        "pos": [
+            193.70644200597144,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                288.44038042268784,
+                712.3534362125343
+            ],
+            [
+                335.23629275224005,
+                712.673956159997
+            ],
+            [
+                311.51781664000123,
+                745.366990801191
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowCBase_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            294.20973947701617,
+            561.3885409576089,
+            33.33407453611943,
+            45.513832539701525
+        ],
+        "pos": [
+            194.36838138268286,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                294.20973947701617,
+                561.3885409576089
+            ],
+            [
+                310.87677674507586,
+                572.6067391188029
+            ],
+            [
+                327.5438140131356,
+                561.7090609050716
+            ],
+            [
+                327.5438140131356,
+                596.004695283579
+            ],
+            [
+                311.19729669253854,
+                606.9023734973105
+            ],
+            [
+                294.20973947701617,
+                595.6841753361164
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowCMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            87.5
+        ],
+        "pos": [
+            483.96153723700354,
+            605.0555816119399
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            87.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowCSec_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            15.0,
+            35.0
+        ],
+        "pos": [
+            517.1444963247661,
+            631.7641986292537
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            15.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "arrowETip_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            288.44038042268784,
+            712.3534362125343,
+            46.79591232955221,
+            33.01355458865669
+        ],
+        "pos": [
+            386.32387875342283,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                288.44038042268784,
+                712.3534362125343
+            ],
+            [
+                335.23629275224005,
+                712.673956159997
+            ],
+            [
+                311.51781664000123,
+                745.366990801191
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowDBase_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            294.20973947701617,
+            561.3885409576089,
+            33.33407453611943,
+            45.513832539701525
+        ],
+        "pos": [
+            289.98581813013425,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                294.20973947701617,
+                561.3885409576089
+            ],
+            [
+                310.87677674507586,
+                572.6067391188029
+            ],
+            [
+                327.5438140131356,
+                561.7090609050716
+            ],
+            [
+                327.5438140131356,
+                596.004695283579
+            ],
+            [
+                311.19729669253854,
+                606.9023734973105
+            ],
+            [
+                294.20973947701617,
+                595.6841753361164
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowDMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            87.5
+        ],
+        "pos": [
+            580.5789739844549,
+            605.0555816119399
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            87.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowDSec_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            15.0,
+            35.0
+        ],
+        "pos": [
+            614.3552850722353,
+            631.7641986292537
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            15.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "arrowDTip_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            288.44038042268784,
+            712.3534362125343,
+            46.79591232955221,
+            33.01355458865669
+        ],
+        "pos": [
+            290.7933393910298,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                288.44038042268784,
+                712.3534362125343
+            ],
+            [
+                335.23629275224005,
+                712.673956159997
+            ],
+            [
+                311.51781664000123,
+                745.366990801191
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "arrowEMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            87.5
+        ],
+        "pos": [
+            675.0382441599977,
+            605.0555816119399
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            87.5
+        ]
+    },
+    {
+        "object_list": [
+            "arrowESec_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            15.0,
+            35.0
+        ],
+        "pos": [
+            711.2619330722173,
+            631.7641986292537
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            15.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "arrowEBase_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            294.20973947701617,
+            561.3885409576089,
+            33.33407453611943,
+            45.513832539701525
+        ],
+        "pos": [
+            386.6314000143184,
+            0.0
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                294.20973947701617,
+                561.3885409576089
+            ],
+            [
+                310.87677674507586,
+                572.6067391188029
+            ],
+            [
+                327.5438140131356,
+                561.7090609050716
+            ],
+            [
+                327.5438140131356,
+                596.004695283579
+            ],
+            [
+                311.19729669253854,
+                606.9023734973105
+            ],
+            [
+                294.20973947701617,
+                595.6841753361164
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "vis_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            76.91226124870309,
+            834.9003363177599,
+            93.27631283582082,
+            101.41451462686553
+        ],
+        "pos": [
+            0.0,
+            0.0
+        ],
+        "color": [
+            134,
+            134,
+            134,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                76.91226124870309,
+                836.1523673625359
+            ],
+            [
+                101.95288214422544,
+                834.9003363177599
+            ],
+            [
+                123.86342542780744,
+                904.3880593028343
+            ],
+            [
+                145.14795318900156,
+                836.1523673625359
+            ],
+            [
+                170.1885740845239,
+                837.4043984073121
+            ],
+            [
+                138.88779796512085,
+                935.0628198998493
+            ],
+            [
+                108.21303736810614,
+                936.3148509446254
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "toggle_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            199.6113036367626,
+            835.526351840148,
+            83.26006447761188,
+            100.16248358208941
+        ],
+        "pos": [
+            0.978149253731317,
+            1.956298507462634
+        ],
+        "color": [
+            134,
+            134,
+            134,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                199.6113036367626,
+                836.778382884924
+            ],
+            [
+                282.8713681143745,
+                835.526351840148
+            ],
+            [
+                282.8713681143745,
+                858.0629106461181
+            ],
+            [
+                254.7006696069118,
+                859.3149416908941
+            ],
+            [
+                253.44863856213578,
+                935.6888354222374
+            ],
+            [
+                227.78200214422532,
+                935.6888354222374
+            ],
+            [
+                227.1559866218372,
+                859.9409572132822
+            ],
+            [
+                199.6113036367626,
+                859.9409572132822
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_outerSide_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            325.4891019548877,
+            853.8431518796988
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_outerFront_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            325.4891019548877,
+            909.9701496128387
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_innerFront_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            392.1562613262977,
+            909.9701496128387
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_innerSide_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            392.1562613262977,
+            853.8431518796988
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_outerFront_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            543.1562613262977,
+            909.9701496128387
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_innerSide_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            476.4891019548877,
+            853.8431518796988
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_outerSide_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            543.1562613262977,
+            853.8431518796988
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_innerFront_bootTip_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            47.5,
+            47.5
+        ],
+        "pos": [
+            476.4891019548877,
+            909.9701496128387
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            47.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_rear_bootTip_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            60.0,
+            27.0
+        ],
+        "pos": [
+            486.56089427416043,
+            803.8999689264944
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1.9000000000000008,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-BootL-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_emblem_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            60.0
+        ],
+        "pos": [
+            649.7038551578933,
+            852.1768729022538
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            60.0
+        ]
+    },
+    {
+        "object_list": [
+            "emblemMain_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            105.0,
+            105.0
+        ],
+        "pos": [
+            703.5599109774405,
+            830.1376057744335
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            105.0,
+            105.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_emblem_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            60.0
+        ],
+        "pos": [
+            829.4908150375909,
+            852.6615020751863
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            60.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_collarBTweak_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            97.5,
+            40.0
+        ],
+        "pos": [
+            82.13283709112784,
+            1060.4208559157848
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            97.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_collarATweak_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            97.5,
+            40.0
+        ],
+        "pos": [
+            199.51252619005754,
+            1060.4208559157848
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            97.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_collarATweak_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            97.5,
+            40.0
+        ],
+        "pos": [
+            523.9701492537315,
+            1060.4208559157848
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            97.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_collarBTweak_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            97.5,
+            40.0
+        ],
+        "pos": [
+            641.3498383526612,
+            1060.4208559157848
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            97.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "rear_collarATweak_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            97.5,
+            40.0
+        ],
+        "pos": [
+            759.1871505152649,
+            1060.4208559157848
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            97.5,
+            40.0
+        ]
+    }
+]

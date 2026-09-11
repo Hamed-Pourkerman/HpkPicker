@@ -1,0 +1,3805 @@
+[
+    {
+        "TabName": "BipedFace",
+        "TabPhoto": "D:/MayaProjects/AnimationProduction_Tools/Maya/HPKPicker/Images/StinaPickerBG.png",
+        "PrefixList": [
+            "",
+            "Arle",
+            "Askar",
+            "Ben",
+            "Gala",
+            "Hedda",
+            "Herkus",
+            "Herva",
+            "Jonar",
+            "Karma",
+            "Luna",
+            "Rakel",
+            "Remus",
+            "RockTroll_A",
+            "RockTroll_B",
+            "RockTroll_C",
+            "Sinja",
+            "Tristan"
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyebrowInner_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            52.5
+        ],
+        "pos": [
+            244.52021970149246,
+            38.8129623880597
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            52.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyebrowOuter_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            52.5
+        ],
+        "pos": [
+            91.18688636815918,
+            38.8129623880597
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            52.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyebrowMid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            52.5
+        ],
+        "pos": [
+            166.85355303482584,
+            38.8129623880597
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            52.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyebrowOuter_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            52.5
+        ],
+        "pos": [
+            788.8131136318408,
+            38.8129623880597
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            52.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyebrowInner_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            52.5
+        ],
+        "pos": [
+            635.4797802985075,
+            38.8129623880597
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            52.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyebrowMid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            52.5
+        ],
+        "pos": [
+            713.1464469651742,
+            38.8129623880597
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            52.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyebrowMain_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            103.0,
+            27.0
+        ],
+        "pos": [
+            634.5614419951659,
+            113.26679233549487
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 2.300000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-EyebrowCtrl-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyebrowMain_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            103.0,
+            27.0
+        ],
+        "pos": [
+            90.7120983033418,
+            113.26679233549487
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 2.300000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-EyebrowCtrl-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "eyeMain_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            36.0,
+            27.0
+        ],
+        "pos": [
+            447.86476569665797,
+            174.6887372010281
+        ],
+        "color": [
+            255,
+            210,
+            85,
+            255
+        ],
+        "scale": 1.7000000000000006,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Aim",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "forehead_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            45.0,
+            45.0
+        ],
+        "pos": [
+            447.71465460154195,
+            70.61778347763504
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            45.0,
+            45.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_eye_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            37.5,
+            37.5
+        ],
+        "pos": [
+            386.7746277426009,
+            169.06476342358854
+        ],
+        "color": [
+            255,
+            210,
+            85,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            37.5,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eye_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            37.5,
+            37.5
+        ],
+        "pos": [
+            513.4989125559068,
+            169.06476342358854
+        ],
+        "color": [
+            255,
+            210,
+            85,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            37.5,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_upperOrbitMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            105.0,
+            25.0
+        ],
+        "pos": [
+            165.42497083360365,
+            257.14696113159835
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            105.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_upperOrbitOuter_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            27.5
+        ],
+        "pos": [
+            152.88142381013841,
+            213.4529365750122
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_upper_eyelid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            42.5
+        ],
+        "pos": [
+            177.10216319407664,
+            313.254397304431
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_8_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            76.8271799293365,
+            395.4946972861519
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyeSocket_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            59.0,
+            27.0
+        ],
+        "pos": [
+            43.19937671568118,
+            214.17963562776276
+        ],
+        "color": [
+            71,
+            71,
+            71,
+            255
+        ],
+        "scale": 1.5000000000000004,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "EyeAttr",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_upperOuterCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            52.50813930546022,
+            431.79233973240014
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyeFkAdd_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            75.0,
+            75.0
+        ],
+        "pos": [
+            180.58503473357263,
+            420.69705256143857
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            75.0,
+            75.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyeOrbitOuter_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            57.5,
+            27.5
+        ],
+        "pos": [
+            150.9528951658584,
+            628.2558982580014
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            57.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_upperOrbitMid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            27.5
+        ],
+        "pos": [
+            200.3921164883693,
+            213.4529365750122
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_upperOrbitInner_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            27.5
+        ],
+        "pos": [
+            250.3921164883693,
+            213.4529365750122
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_6_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            148.2092277126366,
+            372.8748858989233
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            184.57257108448226,
+            371.0829422952626
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_7_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            111.08301699732564,
+            380.74592864582286
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            223.70096921402546,
+            371.0829422952626
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            297.190523301182,
+            380.74592864582286
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            331.4463603691713,
+            395.4946972861519
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsUpper_3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            260.0643125858711,
+            372.8748858989233
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_lowerOuterCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            52.50813930546022,
+            461.20766026759975
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_lowerInnerCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            334.495052729397,
+            461.20766026759975
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_upperInnerCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            334.495052729397,
+            431.79233973240014
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            260.0643125858711,
+            516.1251141010766
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            331.4463603691713,
+            493.5053027138481
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            184.57257108448226,
+            517.9170577047373
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_7_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            111.08301699732564,
+            508.2540713541771
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            223.70096921402546,
+            517.9170577047373
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_8_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            76.8271799293365,
+            493.5053027138481
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_6_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            148.2092277126366,
+            516.1251141010766
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyelidsLower_2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            297.190523301182,
+            508.2540713541771
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_lower_eyelid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            42.5
+        ],
+        "pos": [
+            177.10216319407664,
+            562.745602695569
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_eyeOrbitInner_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            57.5,
+            27.5
+        ],
+        "pos": [
+            226.28808791080837,
+            628.2558982580014
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            57.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_upper_eyelid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            42.5
+        ],
+        "pos": [
+            680.1388198825903,
+            313.254397304431
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_lowerInnerCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            556.8962419894293,
+            461.20766026759975
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_lower_eyelid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            42.5
+        ],
+        "pos": [
+            681.1388198825903,
+            562.745602695569
+        ],
+        "color": [
+            113,
+            200,
+            244,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_upperOrbitMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            105.0,
+            25.0
+        ],
+        "pos": [
+            669.8160122430631,
+            257.14696113159835
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            105.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyeSocket_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            59.0,
+            27.0
+        ],
+        "pos": [
+            828.0416063609857,
+            214.17963562776276
+        ],
+        "color": [
+            71,
+            71,
+            71,
+            255
+        ],
+        "scale": 1.5000000000000004,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "EyeAttr",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_upperInnerCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            556.8962419894293,
+            431.79233973240014
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyeOrbitOuter_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            57.5,
+            27.5
+        ],
+        "pos": [
+            731.5887111951272,
+            628.2558982580014
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            57.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_upperOrbitOuter_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            27.5
+        ],
+        "pos": [
+            751.6439039399268,
+            213.4529365750122
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_lowerOuterCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            839.2793974027954,
+            461.20766026759975
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_upperOrbitMid_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            27.5
+        ],
+        "pos": [
+            704.1457659174899,
+            213.4529365750122
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyeFkAdd_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            75.0,
+            75.0
+        ],
+        "pos": [
+            684.4484323219531,
+            420.69705256143857
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            75.0,
+            75.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_upperOuterCorner1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            22.5
+        ],
+        "pos": [
+            839.2793974027954,
+            431.79233973240014
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            22.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_upperOrbitInner_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            27.5
+        ],
+        "pos": [
+            656.6476278950532,
+            213.4529365750122
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyeOrbitInner_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            57.5,
+            27.5
+        ],
+        "pos": [
+            656.237239839257,
+            628.2558982580014
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            57.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            652.9610151641941,
+            372.8748858989233
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            581.578967380894,
+            395.4946972861519
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            689.3243585360399,
+            371.0829422952626
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            615.8348044488835,
+            380.74592864582286
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_7_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            801.1905233011819,
+            380.74592864582286
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_6_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            764.0643125858712,
+            372.8748858989233
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_8_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            835.4463603691713,
+            395.4946972861519
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsUpper_5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            727.7009692140255,
+            368.7146903672508
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_6_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            764.0643125858712,
+            516.1251141010766
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_5_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            727.7009692140255,
+            517.9170577047373
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            615.8348044488835,
+            508.2540713541771
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_7_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            801.1905233011819,
+            508.2540713541771
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_8_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            835.4463603691713,
+            493.5053027138481
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            652.9610151641941,
+            516.1251141010766
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            581.578967380894,
+            493.5053027138481
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eyelidsLower_4_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            689.3243585360399,
+            517.9170577047373
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "nose_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            43.0,
+            27.0
+        ],
+        "pos": [
+            434.7909075496136,
+            672.6216776489407
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 2.100000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Nose",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_cheekNose_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            40.0
+        ],
+        "pos": [
+            389.295304354416,
+            673.8942153364029
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_nostril_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            37.5,
+            40.0
+        ],
+        "pos": [
+            426.13949990156425,
+            730.9779376283263
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            37.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_puffPrim_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            59.0,
+            27.0
+        ],
+        "pos": [
+            152.76287185768527,
+            712.1536035685301
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.8000000000000007,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-Cheek-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_cheekSquint_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            260.364489906015,
+            708.2588787561906
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_cheekPrim_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            20.0
+        ],
+        "pos": [
+            165.12946862889112,
+            762.2361724906884
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            20.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_nostril_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            37.5,
+            40.0
+        ],
+        "pos": [
+            475.8858278485011,
+            730.9779376283263
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            37.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_puffPrim_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            59.0,
+            27.0
+        ],
+        "pos": [
+            702.2624558923801,
+            712.9296323603037
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.8000000000000007,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-Cheek-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_cheekNose_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            40.0
+        ],
+        "pos": [
+            530.7300233956494,
+            673.8942153364029
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_cheekPrim_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            20.0
+        ],
+        "pos": [
+            708.8958591211742,
+            762.2361724906884
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            20.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_cheekSquint_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            659.6608378440503,
+            708.2588787561906
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "mouthUpperPrim_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            82.0,
+            27.0
+        ],
+        "pos": [
+            399.17182857245916,
+            815.9373419855552
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 2.000000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-UpperLip-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "upperTeeth1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            92.5,
+            32.5
+        ],
+        "pos": [
+            424.15276372001995,
+            876.0530885837504
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            92.5,
+            32.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthCornerPrim_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            60.0,
+            60.0
+        ],
+        "pos": [
+            153.03701766087443,
+            995.7691460721762
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            60.0,
+            60.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecUpper3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            291.61781547815895,
+            984.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "mouthLowerPrim_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            82.0,
+            27.0
+        ],
+        "pos": [
+            399.17182857245916,
+            1195.0626580144449
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 2.000000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-LowerLip-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "lowerTeeth1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            92.5,
+            32.5
+        ],
+        "pos": [
+            424.15276372001995,
+            1136.9469114162496
+        ],
+        "color": [
+            242,
+            191,
+            129,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            92.5,
+            32.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecUpper2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            346.4075122719064,
+            960.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecCorner_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            245.4075122719064,
+            1012.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "mouthSecUpper_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            456.4075122719064,
+            934.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecUpper1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            401.4075122719064,
+            943.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecLower3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            291.61781547815895,
+            1038.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecLower1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            401.4075122719064,
+            1073.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "mouthSecLower_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            456.4075122719064,
+            1083.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_mouthSecLower2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            346.4075122719064,
+            1058.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecLower2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            565.617815478159,
+            1058.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecUpper3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            620.4075122719064,
+            984.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecUpper1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            510.61781547815895,
+            943.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecCorner_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            667.617815478159,
+            1012.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecUpper2_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            565.617815478159,
+            960.413389806091
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecLower1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            510.61781547815895,
+            1073.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthSecLower3_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            620.4075122719064,
+            1038.586610193909
+        ],
+        "color": [
+            191,
+            109,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_mouthCornerPrim_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            60.0,
+            60.0
+        ],
+        "pos": [
+            726.9883100891909,
+            995.7691460721762
+        ],
+        "color": [
+            242,
+            151,
+            139,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            60.0,
+            60.0
+        ]
+    },
+    {
+        "object_list": [
+            "mouthMain_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            643.3973302019035,
+            1145.0631657285894,
+            92.17980400205533,
+            92.97445748483187
+        ],
+        "pos": [
+            1.0,
+            21.397326741388042
+        ],
+        "color": [
+            255,
+            220,
+            181,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                680.7460438923913,
+                1145.0631657285894
+            ],
+            [
+                698.2284205134711,
+                1145.0631657285894
+            ],
+            [
+                698.6257472548591,
+                1182.0145526776894
+            ],
+            [
+                735.5771342039588,
+                1182.4118794190774
+            ],
+            [
+                735.5771342039588,
+                1201.0862362643215
+            ],
+            [
+                698.6257472548591,
+                1200.6889095229333
+            ],
+            [
+                698.2284205134711,
+                1238.0376232134213
+            ],
+            [
+                680.3487171510033,
+                1237.640296472033
+            ],
+            [
+                679.5540636682267,
+                1201.0862362643215
+            ],
+            [
+                643.3973302019035,
+                1200.291582781545
+            ],
+            [
+                643.3973302019035,
+                1182.8092061604657
+            ],
+            [
+                680.3487171510033,
+                1182.0145526776894
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "upperJaw_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            97.5,
+            32.5
+        ],
+        "pos": [
+            422.20138179026344,
+            1266.1452892115085
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            97.5,
+            32.5
+        ]
+    },
+    {
+        "object_list": [
+            "chin_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            27.5
+        ],
+        "pos": [
+            455.98254207894047,
+            1410.6454504395824
+        ],
+        "color": [
+            90,
+            158,
+            110,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "jaw_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            86.0,
+            27.0
+        ],
+        "pos": [
+            357.61147858426057,
+            1325.7453093758177
+        ],
+        "color": [
+            138,
+            214,
+            155,
+            255
+        ],
+        "scale": 2.9000000000000017,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "JawControl",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "headFk_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            69.0,
+            27.0
+        ],
+        "pos": [
+            783.9244603722232,
+            1389.9381422560218
+        ],
+        "color": [
+            255,
+            210,
+            85,
+            255
+        ],
+        "scale": 2.200000000000001,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "HeadCtrl",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "tongueMain1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            50.0,
+            27.0
+        ],
+        "pos": [
+            66.23503815962704,
+            1156.6744449944526
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.7000000000000006,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-Base-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "tongueMain2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            47.5
+        ],
+        "pos": [
+            57.882108036671525,
+            1206.4420483987915
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueOffset1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            27.01895661178196,
+            1151.3840259277176
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueMain5_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            40.0,
+            27.0
+        ],
+        "pos": [
+            74.23503815962704,
+            1399.6115447227494
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.7000000000000006,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-Tip-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "tongueOffset2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            27.01895661178196,
+            1211.9019637894844
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueOffset5_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            27.01895661178196,
+            1393.9019637894844
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueOffset4_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            27.01895661178196,
+            1333.9019637894844
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueOffset3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            20.0,
+            37.5
+        ],
+        "pos": [
+            27.01895661178196,
+            1272.9019637894844
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            20.0,
+            37.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueMain3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            47.5
+        ],
+        "pos": [
+            57.882108036671525,
+            1267.8439413184105
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "tongueMain4_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            47.5
+        ],
+        "pos": [
+            57.882108036671525,
+            1328.8439413184105
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            47.5
+        ]
+    }
+]

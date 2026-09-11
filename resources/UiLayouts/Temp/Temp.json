@@ -1,0 +1,135 @@
+[
+    {
+        "TabName": "HAMED",
+        "TabPhoto": "D:\\Maya_Tools_2022\\HPKPicker\\Images\\Default_Image.png",
+        "PrefixList": [
+            "",
+            "Jonar",
+            "Karma",
+            "Hedda",
+            "..."
+        ]
+    },
+    {
+        "object_list": [],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            327.16417910447757,
+            792.8358208955224,
+            277.0149253731343,
+            298.5074626865671
+        ],
+        "pos": [
+            -2.3880597014925797,
+            -50.14925373134338
+        ],
+        "color": [
+            255,
+            0,
+            0,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                398.8059701492537,
+                857.3134328358208
+            ],
+            [
+                561.1940298507462,
+                792.8358208955224
+            ],
+            [
+                604.1791044776119,
+                936.1194029850745
+            ],
+            [
+                575.5223880597015,
+                1060.2985074626865
+            ],
+            [
+                422.68656716417905,
+                1091.3432835820895
+            ],
+            [
+                327.16417910447757,
+                924.1791044776119
+            ]
+        ],
+        "args": [],
+        "rect": [
+            -2.3880597014925797,
+            -50.14925373134338,
+            280.2283050404757,
+            301.5074626865671
+        ]
+    },
+    {
+        "object_list": [],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            128.955223880597,
+            157.61194029850742
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            128.955223880597,
+            157.61194029850742,
+            30.0,
+            30.0
+        ]
+    },
+    
+    {
+        "object_list": "['Jonar_Rig_HP_v013:c_hairADynamics_ctl', 'Jonar_Rig_HP_v013:c_hairBDynamics_ctl', 'Jonar_Rig_HP_v013:c_hairCDynamics_ctl', 'Jonar_Rig_HP_v013:l_hairADynamics_ctl', 'Jonar_Rig_HP_v013:l_hairBDynamics_ctl', 'Jonar_Rig_HP_v013:l_hairCDynamics_ctl', 'Jonar_Rig_HP_v013:r_hairADynamics_ctl', 'Jonar_Rig_HP_v013:r_hairBDynamics_ctl', 'Jonar_Rig_HP_v013:r_hairCDynamics_ctl', 'Karma_Rig_HP_v063:c_hairADynamics_ctl', 'Karma_Rig_HP_v063:l_hairADynamics_ctl', 'Karma_Rig_HP_v063:l_hairBDynamics_ctl', 'Karma_Rig_HP_v063:ponytailDynamics_ctl', 'Karma_Rig_HP_v063:r_hairADynamics_ctl', 'Karma_Rig_HP_v063:r_hairBDynamics_ctl', 'Karma_Rig_HP_v063:r_hairCDynamics_ctl', 'Karma_Rig_HP_v063:r_hairDDynamics_ctl', 'Rakel_Rig_HP_v004:bunDynamics_ctl', 'Rakel_Rig_HP_v004:c_hairDynamics_ctl', 'Rakel_Rig_HP_v004:l_hairDynamics_ctl', 'Rakel_Rig_HP_v004:r_hairDynamics_ctl']",
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            36.0,
+            27.0
+        ],
+        "pos": [
+            311.4477611940297,
+            81.1940298507462
+        ],
+        "color": [
+            128,
+            0,
+            128,
+            255
+        ],
+        "scale": 5.199999999999998,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "HAMED",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "rect": [
+            311.4477611940297,
+            81.1940298507462,
+            65.0,
+            27.0
+        ]
+    }
+]

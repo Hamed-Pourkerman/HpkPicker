@@ -1,0 +1,309 @@
+[
+    {
+        "TabName": "Biped",
+        "TabPhoto": "D:\\Maya_Tools_2022\\HPKPicker\\Images\\Biped_Default_Gray.png",
+        "PrefixList": [
+            "",
+            "Jonar",
+            "Karma",
+            "Hedda",
+            "..."
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            115.15591184701492
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            115.15591184701492,
+            30.0,
+            30.0
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            322.43949393656715
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            322.43949393656715,
+            40.0,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            156.61262826492538
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            156.61262826492538,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            239.52606110074623
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            239.52606110074623,
+            45.0,
+            45.0
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            363.8962103544776
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            363.8962103544776,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            464.04188199626856
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            464.04188199626856,
+            27.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            280.9827775186567
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            280.9827775186567,
+            50.0,
+            50.0
+        ]
+    },
+    {
+        "object_list": [
+            "Karma_Rig_HP_v063:spineBody2_ctl",
+            "Karma_Rig_HP_v063:spineFk3_ctl",
+            "Karma_Rig_HP_v063:spineFk2_ctl",
+            "Karma_Rig_HP_v063:spineFk4_ctl",
+            "Karma_Rig_HP_v063:spineFk5_ctl",
+            "Karma_Rig_HP_v063:spineFk1_ctl",
+            "Karma_Rig_HP_v063:spineBody1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            230.27761194029864,
+            198.0693446828358
+        ],
+        "color": [
+            0,
+            230,
+            0,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            230.27761194029864,
+            198.0693446828358,
+            40.0,
+            40.0
+        ]
+    }
+]

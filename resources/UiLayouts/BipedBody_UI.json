@@ -1,0 +1,3845 @@
+[
+    {
+        "TabName": "BipedBody",
+        "TabPhoto": "D:/MayaProjects/AnimationProduction_Tools/Maya/HPKPicker/Images/StinaPickerBG.png",
+        "PrefixList": [
+            "",
+            "Arle",
+            "Askar",
+            "Ben",
+            "Gala",
+            "Hedda",
+            "Herkus",
+            "Herva",
+            "Jonar",
+            "Karma",
+            "Luna",
+            "Rakel",
+            "Remus",
+            "RockTroll_A",
+            "RockTroll_B",
+            "RockTroll_C",
+            "Sinja",
+            "Tristan"
+        ]
+    },
+    {
+        "object_list": [
+            "l_armPalmRoll_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            872.9275223880597,
+            340.37253731343276
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            30.0,
+            30.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_armPalmRoll_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            30.0,
+            30.0
+        ],
+        "pos": [
+            39.072477611940286,
+            340.37253731343276
+        ],
+        "color": [
+            139,
+            89,
+            165,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            30.0,
+            30.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_armIk1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            28.0,
+            27.0
+        ],
+        "pos": [
+            27.923695646687065,
+            409.1950475709768
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-IK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_armFkHand1_ctl",
+            "r_armFkHand1_ctl",
+            "r_armFkHand1_ctl",
+            "r_armFkHand1_ctl",
+            "r_armFkHand1_ctl",
+            "r_armFkHand1_ctl",
+            "r_armFkHand1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            111.07630435331293,
+            409.1950475709768
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_armFkElbow1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            201.4357461198731,
+            409.1950475709768
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_armFkShoulder1_ctl",
+            "r_armFkShoulder1_ctl",
+            "r_armFkShoulder1_ctl",
+            "r_armFkShoulder1_ctl",
+            "r_armFkShoulder1_ctl",
+            "r_armFkShoulder1_ctl",
+            "r_armFkShoulder1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            292.92369564668707,
+            409.1950475709768
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armIkBase_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            55.0,
+            55.0
+        ],
+        "pos": [
+            508.4615199378179,
+            406.2038172806069
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            55.0,
+            55.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_armIkBase_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            55.0,
+            55.0
+        ],
+        "pos": [
+            377.5384800621821,
+            406.2038172806069
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            55.0,
+            55.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legToggle_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            52.0,
+            27.0
+        ],
+        "pos": [
+            816.6833575167177,
+            1206.702580548645
+        ],
+        "color": [
+            255,
+            204,
+            0,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Toggle",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legToggle_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            52.0,
+            27.0
+        ],
+        "pos": [
+            59.69339246637196,
+            1206.7184599459952
+        ],
+        "color": [
+            255,
+            204,
+            0,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Toggle",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armToggle_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            52.0,
+            27.0
+        ],
+        "pos": [
+            849.9651983069269,
+            270.765630086059
+        ],
+        "color": [
+            255,
+            204,
+            0,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Toggle",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_armToggle_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            52.0,
+            27.0
+        ],
+        "pos": [
+            26.538544002018853,
+            270.92395981930446
+        ],
+        "color": [
+            255,
+            204,
+            0,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Toggle",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "neckMidMain_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            57.5
+        ],
+        "pos": [
+            399.1539108424113,
+            321.3110100088322
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            57.5
+        ]
+    },
+    {
+        "object_list": [
+            "headIk1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            137.5,
+            27.5
+        ],
+        "pos": [
+            402.2332941041232,
+            279.1195325292209
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            137.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "spineBody2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            202.5,
+            27.5
+        ],
+        "pos": [
+            368.0931739358943,
+            670.1492496540114
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            202.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "spineFk1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            142.5,
+            27.5
+        ],
+        "pos": [
+            397.26836272631454,
+            629.9987106871977
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            142.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "spineFk2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            142.5,
+            27.5
+        ],
+        "pos": [
+            396.9573949519195,
+            593.9184344171662
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            142.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "spineFk3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            142.5,
+            27.5
+        ],
+        "pos": [
+            397.3320308837808,
+            557.2096122200587
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            142.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "spineFk4_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            142.5,
+            27.5
+        ],
+        "pos": [
+            397.06137286485335,
+            521.1234797168507
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            142.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "spineFk5_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            142.5,
+            27.5
+        ],
+        "pos": [
+            397.1692605263901,
+            485.15046913302774
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            142.5,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "neckFk1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            20.0
+        ],
+        "pos": [
+            428.9629358139104,
+            370.0338540895865
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            20.0
+        ]
+    },
+    {
+        "object_list": [
+            "neckFk2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            20.0
+        ],
+        "pos": [
+            428.6611330408188,
+            343.185447860194
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            20.0
+        ]
+    },
+    {
+        "object_list": [
+            "toggle_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            496.56809601998566,
+            25.571029215272574,
+            66.30969692870656,
+            79.18157927369074
+        ],
+        "pos": [
+            0.0,
+            0.0
+        ],
+        "color": [
+            146,
+            146,
+            146,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                496.56809601998566,
+                25.571029215272574
+            ],
+            [
+                562.8777929486922,
+                25.571029215272574
+            ],
+            [
+                562.8777929486922,
+                42.73353900858487
+            ],
+            [
+                540.6445416255376,
+                43.123596049341955
+            ],
+            [
+                539.8644275440234,
+                104.75260848896332
+            ],
+            [
+                519.5814614246544,
+                104.75260848896332
+            ],
+            [
+                519.1914043838973,
+                43.903710130856155
+            ],
+            [
+                496.56809601998566,
+                42.73353900858487
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "vis_ctl"
+        ],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            398.6637787899543,
+            24.790915133758375,
+            74.11083774384844,
+            79.96169335520494
+        ],
+        "pos": [
+            0.018283923785531897,
+            0.3900570407571138
+        ],
+        "color": [
+            146,
+            146,
+            146,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [
+            [
+                398.6637787899543,
+                25.571029215272574
+            ],
+            [
+                417.77657378705203,
+                24.790915133758375
+            ],
+            [
+                434.5490265396072,
+                79.398900839752
+            ],
+            [
+                453.2717644959479,
+                25.571029215272574
+            ],
+            [
+                472.7746165338027,
+                25.571029215272574
+            ],
+            [
+                447.4209088845914,
+                104.75260848896332
+            ],
+            [
+                422.45725827613717,
+                104.75260848896332
+            ]
+        ],
+        "args": []
+    },
+    {
+        "object_list": [
+            "neckFk3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            82.5,
+            20.0
+        ],
+        "pos": [
+            429.0868881501107,
+            316.01988625096203
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            82.5,
+            20.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_ear1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            47.5
+        ],
+        "pos": [
+            565.1608874655901,
+            199.0442795059684
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_ear1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            47.5
+        ],
+        "pos": [
+            349.83911253440994,
+            199.0442795059684
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            47.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_eye_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            522.3055518865358,
+            122.75583596214494
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_eye_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            382.5105750022458,
+            122.73116218791154
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "headFk_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            44.0,
+            27.0
+        ],
+        "pos": [
+            404.96504076246146,
+            185.82155792067047
+        ],
+        "color": [
+            241,
+            225,
+            55,
+            255
+        ],
+        "scale": 3.400000000000002,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Head",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "rect": [
+            404.96504076246146,
+            185.82155792067047,
+            44.0,
+            27.0
+        ]
+    },
+    {
+        "object_list": [
+            "eyeMain_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            36.0,
+            27.0
+        ],
+        "pos": [
+            450.96678760984184,
+            128.72034711015755
+        ],
+        "color": [
+            234,
+            173,
+            113,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Aim",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_armBendyLower_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            17.5
+        ],
+        "pos": [
+            108.91143554379971,
+            475.38671032134187
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_armTweaker_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            17.5
+        ],
+        "pos": [
+            201.0885644562003,
+            475.38671032134187
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_armBendyUpper_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            17.5
+        ],
+        "pos": [
+            290.9114355437997,
+            475.38671032134187
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_armIkPoleVector_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            38.0,
+            27.0
+        ],
+        "pos": [
+            210.59279605146367,
+            323.685456045788
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Pole",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armIkPoleVector_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            38.0,
+            27.0
+        ],
+        "pos": [
+            688.7689987750354,
+            325.2091163612454
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Pole",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armBendyUpper_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            17.5
+        ],
+        "pos": [
+            589.1648688095132,
+            475.38671032134187
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_armBendyLower_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            17.5
+        ],
+        "pos": [
+            768.1648688095131,
+            476.57706994279295
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_armTweaker_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            62.5,
+            17.5
+        ],
+        "pos": [
+            675.9877398971126,
+            475.38671032134187
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            62.5,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_armFkHand1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            771.0,
+            409.1950475709768
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armFkElbow1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            680.1526087066259,
+            409.1950475709768
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armIk1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            28.0,
+            27.0
+        ],
+        "pos": [
+            861.1526087066259,
+            409.1950475709768
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-IK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armFkShoulder1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            589.2289130599388,
+            409.1950475709768
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_handFingerPoses_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            57.0,
+            27.0
+        ],
+        "pos": [
+            109.86532996845517,
+            571.2085723659286
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 1.5000000000000004,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Fingers",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_handPinkyFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            46.45377822082048,
+            621.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handRingFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            88.89439106001464,
+            621.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handMiddleFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            131.42570977918012,
+            621.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handIndexFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            172.8663226183744,
+            621.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handThumbFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            231.0639422485824,
+            608.7087235028339
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handPinkyFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            45.77457493720078,
+            656.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handPinkyFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            45.77457493720078,
+            704.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handPinkyFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            45.77457493720078,
+            752.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handRingFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            87.16859230233331,
+            752.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handRingFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            87.16859230233331,
+            704.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handRingFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            87.16859230233331,
+            656.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handMiddleFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            130.4605562351528,
+            704.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handMiddleFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            130.4605562351528,
+            656.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handIndexFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            172.62199682827168,
+            752.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handMiddleFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            130.4605562351528,
+            752.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handIndexFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            172.62199682827168,
+            704.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handIndexFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            172.62199682827168,
+            656.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handThumbFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            231.02415879150726,
+            646.5780959172189
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handThumbFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            231.02415879150726,
+            742.5780959172189
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_handThumbFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            231.02415879150726,
+            694.1316926408022
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handIndexFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            735.5377279019158,
+            705.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handRingFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            820.9911324278542,
+            657.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handMiddleFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            777.6991684950347,
+            705.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handIndexFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            735.5377279019158,
+            753.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handMiddleFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            777.6991684950347,
+            753.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handPinkyFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            861.7059465093671,
+            622.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handRingFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            820.9911324278542,
+            705.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handMiddleFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            776.7340149510073,
+            622.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handMiddleFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            777.6991684950347,
+            657.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handThumbFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            677.1355659386802,
+            647.5780959172189
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handPinkyFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            862.3851497929868,
+            705.2170517322852
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handThumbFing2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            677.1355659386802,
+            695.1316926408022
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handPinkyFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            862.3851497929868,
+            657.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handIndexFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            735.2934021118131,
+            622.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handThumbFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            677.1355659386802,
+            743.5780959172189
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handRingFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            820.9911324278542,
+            753.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handPinkyFing3_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            862.3851497929868,
+            753.6634550087019
+        ],
+        "color": [
+            65,
+            127,
+            90,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handRingFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            819.2653336701728,
+            622.787085627755
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handThumbFingBase1_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            25.0,
+            25.0
+        ],
+        "pos": [
+            677.095782481605,
+            609.7087235028339
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            25.0,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handIndexFing1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            27.5,
+            40.0
+        ],
+        "pos": [
+            735.5377279019158,
+            657.6634550087015
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            27.5,
+            40.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_handFingerPoses_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            57.0,
+            27.0
+        ],
+        "pos": [
+            755.2943947617323,
+            567.2085723659286
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 1.5000000000000004,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Fingers",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "spineBody1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            72.0,
+            27.0
+        ],
+        "pos": [
+            357.35065590441764,
+            720.0253336783686
+        ],
+        "color": [
+            241,
+            225,
+            55,
+            255
+        ],
+        "scale": 3.400000000000002,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Hip/Root",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "spineHipsFk_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            137.5,
+            25.0
+        ],
+        "pos": [
+            401.6137008759574,
+            814.3356747021253
+        ],
+        "color": [
+            96,
+            178,
+            119,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            137.5,
+            25.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_legFkKnee1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            316.3923151892739,
+            1017.8175615359496
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 2.7000000000000015,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legFkFoot1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            316.3923151892739,
+            1178.5161104318486
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 2.7000000000000015,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legFkHip1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            316.3923151892739,
+            855.7382933971486
+        ],
+        "color": [
+            229,
+            118,
+            92,
+            255
+        ],
+        "scale": 2.7000000000000015,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legIkBase_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            50.0
+        ],
+        "pos": [
+            400.8013229520501,
+            858.0690938074696
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            50.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_legTweaker_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            50.0
+        ],
+        "pos": [
+            401.2006060734052,
+            1018.5947882020184
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            50.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_legBendyUpper_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            327.43628265397996,
+            944.1821189480872
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_legBendyLower_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            327.43628265397996,
+            1104.4744130295005
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_legIkPoleVector_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            38.0,
+            27.0
+        ],
+        "pos": [
+            226.56319478345623,
+            1032.308028583326
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Pole",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legIk1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            28.0,
+            27.0
+        ],
+        "pos": [
+            329.35002349501434,
+            1265.809095772291
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-IK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legHeelIk_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            357.8800121001829,
+            1334.50814758428
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_legBallIk_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            233.64217155240226,
+            1334.50814758428
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "r_legTipIk_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            158.58962988693463,
+            1334.50814758428
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legBendyUpper_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            572.451960688194,
+            944.1821189480872
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_legTweaker_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            50.0
+        ],
+        "pos": [
+            516.6876372687689,
+            1018.5947882020184
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            50.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legIkPoleVector_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            38.0,
+            27.0
+        ],
+        "pos": [
+            670.3250485587179,
+            1032.308028583326
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 1.6000000000000005,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "Pole",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_legBendyLower_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            42.5,
+            42.5
+        ],
+        "pos": [
+            572.451960688194,
+            1104.4744130295005
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            42.5,
+            42.5
+        ]
+    },
+    {
+        "object_list": [
+            "l_legIk1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            28.0,
+            27.0
+        ],
+        "pos": [
+            563.5382198471598,
+            1265.809095772291
+        ],
+        "color": [
+            180,
+            106,
+            193,
+            255
+        ],
+        "scale": 2.5000000000000013,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-IK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_legIkBase_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            22.5,
+            50.0
+        ],
+        "pos": [
+            517.086920390124,
+            858.0690938074696
+        ],
+        "color": [
+            60,
+            112,
+            175,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            22.5,
+            50.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legHeelIk_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            548.0082312419911,
+            1334.50814758428
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legTipIk_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            747.2986134552393,
+            1334.50814758428
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legBallIk_ctl"
+        ],
+        "type": "ellipse",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            35.0,
+            35.0
+        ],
+        "pos": [
+            672.2460717897718,
+            1334.50814758428
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            35.0,
+            35.0
+        ]
+    },
+    {
+        "object_list": [
+            "l_legFkHip1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            559.4959281529003,
+            856.9286530186027
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 2.7000000000000015,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_legFkKnee1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            559.4959281529003,
+            1019.0079211574039
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 2.7000000000000015,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_legFkFoot1_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            31.0,
+            27.0
+        ],
+        "pos": [
+            559.4959281529002,
+            1178.5161104318486
+        ],
+        "color": [
+            71,
+            153,
+            214,
+            255
+        ],
+        "scale": 2.7000000000000015,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FK",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "global2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            390.0,
+            27.5
+        ],
+        "pos": [
+            274.85887557273986,
+            1382.5882633204224
+        ],
+        "color": [
+            209,
+            131,
+            97,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            390.0,
+            27.5
+        ]
+    },
+    {
+        "object_list": [
+            "global1_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            552.5,
+            30.0
+        ],
+        "pos": [
+            194.40961091658852,
+            1418.4952314331895
+        ],
+        "color": [
+            241,
+            225,
+            55,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            552.5,
+            30.0
+        ]
+    },
+    {
+        "object_list": [],
+        "type": "DrawPolygon",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": [
+            0.0,
+            0.0
+        ],
+        "color": [
+            255,
+            0,
+            0,
+            128
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "polygonPointsInOrder": [],
+        "args": []
+    },
+    {
+        "object_list": [
+            "r_legToeIk_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            55.0,
+            27.0
+        ],
+        "pos": [
+            242.71030630167093,
+            1305.0342069334274
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1.1,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-IKtoe-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "r_legToeFK_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            58.0,
+            27.0
+        ],
+        "pos": [
+            168.04981938548747,
+            1304.6441498926706
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1.1,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FKtoe-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_legToeFK_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            58.0,
+            27.0
+        ],
+        "pos": [
+            730.8384239566867,
+            1304.6441498926706
+        ],
+        "color": [
+            183,
+            83,
+            62,
+            255
+        ],
+        "scale": 1.1,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-FKtoe-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_legToeIk_ctl"
+        ],
+        "type": "TextButton",
+        "bounding_rect": [
+            0.0,
+            0.0,
+            55.0,
+            27.0
+        ],
+        "pos": [
+            656.1779370405031,
+            1305.0342069334274
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1.1,
+        "script": "",
+        "scriptEnabled": false,
+        "text": "-IKtoe-",
+        "textcolor": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "object_list": [
+            "l_armIk2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            17.5
+        ],
+        "pos": [
+            860.9768077983745,
+            475.38671032134187
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            17.5
+        ]
+    },
+    {
+        "object_list": [
+            "r_armIk2_ctl"
+        ],
+        "type": "rectangle",
+        "bounding_rect": [
+            10.0,
+            10.0,
+            50.0,
+            17.5
+        ],
+        "pos": [
+            27.9114355437996,
+            475.38671032134187
+        ],
+        "color": [
+            133,
+            96,
+            168,
+            255
+        ],
+        "scale": 1,
+        "script": "",
+        "scriptEnabled": false,
+        "rect": [
+            10,
+            10,
+            50.0,
+            17.5
+        ]
+    }
+]
